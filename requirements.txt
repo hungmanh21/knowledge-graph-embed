@@ -1,5 +1,5 @@
-dgl==0.4.3
-lxml==4.6.2
-torch==1.7.1
-tqdm==4.56.2
+dgl==2.1.0
+lxml
+torch
+tqdm
 transformers==4.3.2
